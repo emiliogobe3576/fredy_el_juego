@@ -1,5 +1,5 @@
 # Información
-El proyecto fue creado en el año 2019 para la FETEINFCIEN 2019 donde obtuvo una acreditación internacional para FENA DANTE Feria internacional de Ciencias y Tecnología, Sao Paulo, Brasil 2020 https://www.colegiodante.com.br/fenadante/, Presentación: https://prezi.com/p/pztnunkjm-ja/videojuegos/
+El proyecto fue creado en el año 2019 para la FETEINFCIEN 2019 donde obtuvo una acreditación internacional para FENA DANTE Feria internacional de Ciencias y Tecnología, Sâo Paulo, Brasil 2020 https://www.colegiodante.com.br/fenadante/, Presentación: https://prezi.com/p/pztnunkjm-ja/videojuegos/
 # Fredy, El héroe del traje amarillo
 Proyecto Fredy, El héroe del traje amarillo, juego didáctico hecho con Construct2
 # Nombre del Proyecto de Investigación
